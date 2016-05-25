@@ -18,5 +18,5 @@ app.all('/*', function(req, res){
 });
 
 app.listen(PORT, function(){
-    console.log('Server is running on ' + PORT + 'port');
+    console.log('Server is running on ' + PORT + ' port');
 });
